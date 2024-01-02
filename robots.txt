@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hokibet.jmarchini.org/sitemap.xml
